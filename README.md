@@ -52,13 +52,13 @@ I am currently focusing on studying [AWS](https://aws.amazon.com/).
 ## Get in touch :coffee:
 
 <a href="https://facebook.com/AriHt3t">
-  <img align="center" alt="Minn | Facebook" width="21px" src="https://github.com/h-minn/h-minn/blob/master/resources/facebook.png" />
+  <img align="center" alt="AriHt3t | Facebook" width="21px" src="https://github.com/h-minn/h-minn/blob/master/resources/facebook.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/htet-htet-min">
-  <img align="center" alt="Minn | LinkedIn" width="21px" src="https://github.com/h-minn/h-minn/blob/d13e4d819fb3345a4a80fed70bfc38588ae98d87/resources/linkedin.png" />
+  <img align="center" alt="Htet Htet Min | LinkedIn" width="21px" src="https://github.com/h-minn/h-minn/blob/master/resources/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/Ari_Ht3t">
-  <img align="center" alt="Minn | Twitter" width="21px" src="https://github.com/h-minn/h-minn/blob/master/resources/twitter.svg" />
+  <img align="center" alt="Ari_Ht3t | Twitter" width="21px" src="https://github.com/h-minn/h-minn/blob/master/resources/twitter.svg" />
 </a>
