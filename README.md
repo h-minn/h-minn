@@ -1,4 +1,4 @@
-# Hello!မင်္ဂလာပါ！こんにちは！안녕!你好! :wave:
+# Hello! မင်္ဂလာပါ! こんにちは！ 안녕! 你好! :wave:
 
 <p align="center"> 
   Visitor count/閲覧数<br>
