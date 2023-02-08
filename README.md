@@ -21,7 +21,7 @@ I am currently focusing on studying [AWS](https://aws.amazon.com/).
 ## Things I code with 
 <table><tr><td valign="top" width="33%">
 
-### Fronend  
+### Frontend  
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" /> </a> 
