@@ -108,8 +108,7 @@ I am currently focusing on studying [AWS](https://aws.amazon.com/).
 
 ## Github Stats  
 <div align="left">
-<p><img src="https://github-readme-stats.vercel.app/api?username=h-minn&show_icons=true&count_private=true&locale=en" /></p>
-  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h-minn&" alt="h-minn" /></p>
 
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-minn&column=3&margin-w=15&margin-h=15" alt="h-minn" /></a> </p>
