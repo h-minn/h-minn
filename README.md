@@ -9,13 +9,11 @@
 
 I'm Min, developer from <b>Yangon, Myanmar</b>, currently residing in <b>Japan</b>. </p>
 
-I am currently focusing on studying [AWS](https://aws.amazon.com/).
-
 ## Things I am passionate about
 
 - Cloud Computing :cloud:
-- Full Stack Development :pager:
-- Backend Development :computer:
+- Full Stack Development :computer:
+- Professional Scrum Master™ II Certified :name_badge:
 - Open source :octocat:
 
 ## Things I code with 
