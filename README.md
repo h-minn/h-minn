@@ -7,7 +7,8 @@
 
 ## About me
 
-I'm Min, developer from <b>Yangon, Myanmar</b>, currently residing in <b>Japan</b>. </p>
+I'm Min, a Full Stack Developer and AWS Certified Solution Architect from [Yangon, Myanmar](https://en.wikipedia.org/wiki/Yangon). 
+
 
 ## Things I am passionate about
 
