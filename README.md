@@ -5,10 +5,11 @@
   <img src="https://profile-counter.glitch.me/h-minn/count.svg" />
 </p>
 
-## About me
+## About Me
 
-I'm Min, a Full Stack Developer and AWS Certified Solution Architect from [Yangon, Myanmar](https://en.wikipedia.org/wiki/Yangon). 
+I'm Min — a Full Stack Developer and AWS Certified Solutions Architect originally from [Yangon, Myanmar](https://en.wikipedia.org/wiki/Yangon).
 
+🔗 Visit my GitHub portfolio: [h-minn.github.io](https://h-minn.github.io/)
 
 ## Things I am passionate about
 
