@@ -178,7 +178,7 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" width="30"/> Certifications</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
   <img src="/resources/badges/aws-certified-advanced-networking-specialty.png" alt="AWS Certified Advanced Networking Specialty" width="150" height="150">
   <img src="/resources/badges/aws-certified-machine-learning-specialty.png" alt="AWS Certified Machine Learning Specialty" width="150" height="150">
   <img src="/resources/badges/aws-certified-security-specialty.png" alt="AWS Certified Security Specialty" width="150" height="150">
@@ -195,19 +195,18 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="30"/> GitHub Status</h2>
 
-<div style="width: 49%; float: left;">
-  <img src="https://octodex.github.com/images/NUX_Octodex.gif" width="100%">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img align='left' src='https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif' width='400'>
+  <div align='right'>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-minn" alt="GitHub Streak Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=h-minn&show_icons=true&locale=en" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-minn&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-minn" alt="Profile Details" height="150" />
+  </div>
+    <img align='center' src="https://github-profile-trophy.vercel.app/?username=h-minn" alt="GitHub Trophies" />
 </div>
 
-<div style="width: 49%; float: right;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h-minn" alt="GitHub Streak Stats" height="150" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=h-minn&show_icons=true&locale=en" alt="GitHub Stats"  height="150" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-minn" alt="Profile Details"  height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=h-minn" alt="GitHub Trophies"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-minn&show_icons=true&locale=en&layout=compact" alt="Top Languages"  height="150" />
-</div>
+
 <div style="clear: both;"></div>
 
 ---
