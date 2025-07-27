@@ -6,7 +6,6 @@
 
 ---
 
-<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='500'>
 <h1>
   <img
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png"
@@ -15,6 +14,8 @@
   />
   About Me.
 </h1>
+
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='550'>
 
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
@@ -32,10 +33,10 @@
 
 ---
 
-<h2>
+<h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" width="30" alt="Disguised Face Emoji" />
   What I'm Passionate About
-</h2>
+</h3>
 
 <ul>
   <li>🌱 Currently diving deep into <strong>Kubernetes, AWS, GCP, and DevSecOps</strong></li>
