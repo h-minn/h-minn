@@ -207,24 +207,7 @@
     <img align='center' src="https://github-profile-trophy.vercel.app/?username=h-minn" alt="GitHub Trophies" />
 </div>
 
-
 <div style="clear: both;"></div>
-
----
-
-<h2><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"/> Connect With Me </h1>
-
-<div align="center">
-  <a href="https://dev.to/mintake"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="48" height="48" alt="devto" style="margin: 0 8px;" /></a> 
-  <a href="https://twitter.com/ari_ht3t"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="twitter" style="margin: 0 8px;" /></a> 
-  <a href="https://linkedin.com/in/htet-htet-min"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48" height="48" alt="linkedin" style="margin: 0 8px;" /></a> 
-  <a href="https://stackoverflow.com/users/16746897"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48" height="48" alt="stackoverflow" style="margin: 0 8px;" /></a> 
-  <a href="https://kaggle.com/htethtetmin"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48" alt="kaggle" style="margin: 0 8px;" /></a> 
-  <a href="https://fb.com/ariht3t"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="48" height="48" alt="facebook" style="margin: 0 8px;" /></a> 
-  <a href="https://instagram.com/ari_ht3t"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="instagram" style="margin: 0 8px;" /></a> 
-  <a href="https://dribbble.com/nekomelon522"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="48" height="48" alt="dribbble" style="margin: 0 8px;" /></a> 
-  <a href="https://h-minn.github.io/feed.xml"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" width="48" height="48" alt="rss" style="margin: 0 8px;" /></a>
-</div>
 
 ---
 <h2><img src="https://user-images.githubusercontent.com/74038190/216655827-a410d92c-88f7-4639-bf0a-6f0a36134591.gif" width="40"/> My Favorite Stickers</h2>
